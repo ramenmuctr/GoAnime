@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": 21,
+      "title": "Человек-Бензопила",
+      "genres": ["Сёнен", "Экшен", "Фэнтези"],
+      "poster": "https://i.ibb.co/G459kvbb/chainsaw.jpg"
+    },
+    {
+      "id": 38,
+      "title": "Тоннель в лето, выход прощаний",
+      "genres": ["Драма", "Тайна", "Романтика", "Сверхъестественное"],
+      "poster": "https://i.ibb.co/s9WW9zsZ/tunnel.jpg"
+    },
+    {
+      "id": 1,
+      "title": "Паразит",
+      "genres": ["Сэйнен", "Экшен", "Ужасы", "Фантастика", "Триллер"],
+      "poster": "https://i.ibb.co/XZYRKmzQ/paras.jpg"
+    },
+    {
+      "id": 33333,
+      "title": "Здравствуй, мир",
+      "genres": ["Драма", "Романтика", "Фантастика"],
+      "poster": "https://i.ibb.co/1t9KTHD6/hw.jpg"
+    }
+  ]
+}
